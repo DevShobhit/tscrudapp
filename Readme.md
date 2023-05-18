@@ -52,6 +52,14 @@ yarn start
 
 5. Open your browser and visit http://localhost:3000 to access the application.
 
+## External API Endpoints Used
+
+To Fetch data for chart
+- https://disease.sh/v3/covid-19/historical/all?lastdays=all
+
+To fetch country specific stats for all countries
+- https://disease.sh/v3/covid-19/countries
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or submit an issue.
